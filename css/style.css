@@ -10,6 +10,8 @@
 html {
   overflow-x: hidden; }
 
+  owl-carousel .owl-item img{display:block;width:74%}
+
 body {
   font-family: "Montserrat", sans-serif;
   line-height: 1.8;
